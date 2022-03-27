@@ -15,11 +15,11 @@ I am an engineer with a Msc in Computation in Coastal & Civil Engineering from t
 
 -Developed a strong background working as a data scientist on the application of machine learning and data science methods in water ,energy and environmental field throughut different projects.
 
--Gained a  valuable experience using numerical models for wave modeling, wave structure interaction (FSI), and wave overtopping and hydraulic modeling in general.
+-Demonstrated a valuable experience using numerical models for wave modeling, wave structure interaction (FSI), and wave overtopping and hydraulic modeling in general.
 
 -Being involved in many projects related to coastal/Water data analysis.
 
--Solid understanding of machine learning algorithms such as deep learning algorithms used for time series analysis, supervised and unsupervised learning..etc. 
+-A Solid understanding of machine learning algorithms such as deep learning algorithms used for time series analysis, supervised and unsupervised learning..etc. 
 
 Some of my main projects are:
 - Energy optimization of wastewater treatment plants using gradient boosting algorithms
